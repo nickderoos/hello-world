@@ -1,2 +1,4 @@
 # hello-world
-Tesing testing
+Testing testing
+
+A bit about myself.
